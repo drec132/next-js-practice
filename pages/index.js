@@ -20,8 +20,8 @@ export default function Home({ allPostsData }) {
       <Head>{siteTitle}</Head>
       <section className={utilStyles.headingMd}>
         <p>
-          Hello I'm Rec, Associate Software Engineer of Mynt. Check my{' '}
-          <a href='https://github.com/drec132'>Github</a>{' '}
+          Hello I'm Rec. Currently practicing my Front-end and Back-end skills.
+          Check my <a href='https://github.com/drec132'>Github</a>{' '}
         </p>
         <p>
           (This is a sample website - you’ll be building a site like this on{' '}
